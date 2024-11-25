@@ -1,0 +1,64 @@
+@media screen and (min-width: 1270px) {
+
+    .dropdown-block {
+
+        display: none;
+
+    }
+
+}
+
+@media screen and (max-width: 1270px) {
+
+    .dropdown-block {
+
+        display: block;
+
+    }
+
+    .header-box-2 {
+
+        display: none;
+
+    }
+
+}
+
+@media screen and (min-width: 900px) {
+
+    .mediaMini {
+
+        display: none;
+
+    }
+    
+}
+
+@media screen and (max-width: 900px) {
+
+    .work {
+
+        width: 300px;
+
+    }
+
+    .date {
+
+        display: none;
+
+    }
+    
+    .mediaMini {
+
+        display: block;
+
+    }
+
+    .container {
+
+        justify-content: center;
+        align-items: center;
+
+    }
+
+}
